@@ -1,7 +1,7 @@
 # TradingView SOLUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 27 August 2025 at 01:49:18 (GMT+7)
-## Price Now: $195.10
+## Last updated: 27 August 2025 at 02:23:50 (GMT+7)
+## Price Now: $195.81
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 SOLUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ SOLUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $59.54 | $96.98 | $90.72 | $211.07 | $25.64 | $14.53 | $0.64 | $6.34 | -$0.38 | -$1.61 | -$1.18 | $194.77 |
+| $61.25 | $94.95 | $92.81 | $191.21 | $25.69 | $13.78 | $1.78 | $7.76 | -$0.02 | -$1.30 | -$2.68 | $195.80 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ SOLUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $191.76 | $190.95 | $191.36 | $189.41 | $192.28 | $190.73 | $194.16 | $196.03 | $195.13 | $199.63 | $193.18 | $191.02 |
+| $192.47 | $191.71 | $191.77 | $189.83 | $192.49 | $190.65 | $194.21 | $195.76 | $195.14 | $199.65 | $193.21 | $191.09 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
